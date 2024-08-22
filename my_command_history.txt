@@ -1,0 +1,128 @@
+    1  mkdir hii
+    2  code hii
+    3  cd hii
+    4  touch hello
+    5  nano
+    6  ls
+    7  cd hello
+    8  cd greet
+    9  nano
+   10  ls
+   11  greet
+   12  vim greet
+   13  vi greet
+   14  cd hello
+   15  ls
+   16  cd hii
+   17  ls
+   18  vi greet
+   19  cd ..
+   20  2+2
+   21  useradd
+   22  useradd srikanth
+   23  touch newfile
+   24  nano
+   25  ls
+   26  rm hii
+   27  rmdir hii
+   28  rm -r hii
+   29  ls
+   30  rm -r geeting,newfile
+   31  rm -r greeting newfile
+   32  ls
+   33  mkdir greets
+   34  cd greets
+   35  nano
+   36  ls
+   37  cd greet1
+   38  nano
+   39  ls
+   40  cd greets
+   41  ls
+   42  nano greet1
+   43  ls
+   44  nano
+   45  nano greet1
+   46  mkdir empty
+   47  cd empty
+   48  rm empty
+   49  cd ..
+   50  rm empty
+   51  rm -r empty
+   52  ls
+   53  mkdir empty
+   54  cd empty
+   55  cd ..
+   56  ls
+   57  rmdir empty
+   58  pwd
+   59  mv greet1 greet
+   60  ls
+   61  nano greet1
+   62  ls
+   63  cp greet greet1
+   64  ls
+   65  zip greet greet1
+   66  ls
+   67  uzip greet1.zip
+   68  tar greet.zip
+   69  x greet.zip
+   70  tar -c greet.zip
+   71  tar -f
+   72  tar -f greet.zip
+   73  tar -f greet
+   74  tar -rvf files.tar greet.zip
+   75  ls
+   76  tar -tf files.tar.gz
+   77  tar -tf files.tar
+   78  ping google.com
+   79  ls -R
+   80  cd ..
+   81  grep greet
+   82  grep greet1
+   83  fgrep greet
+   84  clear
+   85  grep greet
+   86  su
+   87  locate greet
+   88  kill
+   89  killall
+   90  grep " "   greet
+   91  grep "" greet
+   92  greep "" greets
+   93  grep " "  greets
+   94  cd greets
+   95  ls
+   96  grep "" greet
+   97  grep greet
+   98  grep "" greets
+   99  cat greet
+  100  less greet
+  101  ls
+  102  cd git_practice1
+  103  git status
+  104  ls
+  105  cat text2
+  106  cat text1
+  107  tar text.tar text1 text2
+  108  tar -e text.tar text1 text2
+  109  tar --help
+  110  tar -c text.tar text1 text2
+  111  tar -f text.tar text1 text2
+  112  tar -cf text.tar text1 text2
+  113  ls
+  114  zip --help
+  115  zip text1 text2
+  116  ls
+  117  git add .
+  118  git commit -m "second commit"
+  119  git push -m origin master
+  120  git push -u origin master
+  121  zip text text1 text2
+  122  git add .
+  123  git status
+  124  git commit -m added
+  125  git push -u origin master
+  126  history
+  127  touch history
+  128  history > my_command_history.txt
